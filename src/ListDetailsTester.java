@@ -6,6 +6,7 @@ import controller.ShopperHelper;
 import model.ListDetails;
 import model.Shopper;
 
+
 public class ListDetailsTester {
 
 	public static void main(String[] args) {
